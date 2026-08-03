@@ -64,10 +64,14 @@ The analysis incorporates:
 ## 📈 Key Analysis
 
 ### Sales Performance
+![Sales Analysis](screenshots/sales-analysis.png)<img width="1343" height="598" alt="sales-analysis" src="https://github.com/user-attachments/assets/532fd130-0783-40ec-a755-749112feb20c" />
+
 
 Total recorded sales in the analyzed dataset were approximately **$45.13K**, generated from **3,551 units** across **957 orders**.
 
 ### Geographic Performance
+![Customer Analysis](screenshots/customer-analysis.png)<img width="938" height="394" alt="customer-analysis" src="https://github.com/user-attachments/assets/bcf2ec17-b7c6-4696-9e61-1ed81b3ae1eb" />
+
 
 The United States generated the largest share of sales at approximately **$35.64K**, followed by:
 
@@ -109,6 +113,8 @@ The top customer generated approximately **$317.07** in recorded sales.
 ---
 
 ## 📊 Dashboard
+![Coffee Sales Dashboard](screenshots/dashboard.png)<img width="1204" height="593" alt="dashboard" src="https://github.com/user-attachments/assets/20932ec5-57a4-4e57-b895-9bd4519fdf19" />
+
 
 The final dashboard brings the analysis together into a visual and interactive format, allowing users to explore sales performance across different dimensions.
 
