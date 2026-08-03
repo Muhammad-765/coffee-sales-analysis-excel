@@ -170,7 +170,6 @@ XLOOKUP · INDEX/MATCH · IF · PivotTables · PivotCharts · Dashboarding · Da
 Sales analysis · Customer analysis · Product analysis · Geographic analysis · Trend analysis
 
 ---
-
 ## 🚀 Project Outcome
 
 The project transformed raw coffee sales transactions into a structured analytical workbook and interactive dashboard that communicates business performance in a clear, decision-oriented format.
