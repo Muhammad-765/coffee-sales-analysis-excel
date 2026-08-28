@@ -169,10 +169,6 @@ coffee-sales-analysis-excel/
 ├── data/
 │   └── coffee_orders.xlsx
 │
-├── analysis/
-│   ├── customer_analysis.xlsx
-|   └── sales_analysis.xlsx
-│
 ├── dashboard/
 │   └── coffee_sales_dashboard.xlsx
 │
