@@ -163,17 +163,26 @@ The resulting insights can help businesses:
 
 ## 📁 Workbook Structure
 
-| Worksheet          | Purpose                               |
-| ------------------ | ------------------------------------- |
-| `Dashboard`        | Interactive executive dashboard       |
-| `Top 5 Customers`  | High-value customer analysis          |
-| `Country Barchart` | Geographic sales comparison           |
-| `Total Sales`      | Sales trends and coffee-type analysis |
-| `Orders`           | Transaction-level analysis            |
-| `Customers`        | Customer information                  |
-| `Products`         | Product information                   |
-
----
+```text
+coffee-sales-analysis-excel/
+│
+├── data/
+│   └── coffee_orders.xlsx
+│
+├── analysis/
+│   ├── customer_analysis.xlsx
+|   └── sales_analysis.xlsx
+│
+├── dashboard/
+│   └── coffee_sales_dashboard.xlsx
+│
+├── screenshots/
+│   ├── dashboard.png
+│   ├── customer-analysis.png
+│   └── sales-analysis.png
+│
+├── README.md
+```
 
 ## 🚀 Project Outcome
 
